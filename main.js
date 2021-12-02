@@ -1,7 +1,7 @@
 var mongoose=require('mongoose');
 var express=require('express');
 var bodyParser=require('body-parser');
-var controller=require('D:/webTech/onion/models/controller');
+var controller=require('D:/webTech/prosava/models/controller');
 var express=require('express');
 var app=express();
 app.set('view engine','ejs');
